@@ -5,4 +5,8 @@ This is my opportunity to make changes.
 
 make changes at the end of the file, commit, and attempt to push
 
+<<<<<<< HEAD
 let's try another try for fetch MOR
+=======
+let's try another try for fetch MATAN
+>>>>>>> 260675705561a5a4ff4f334af81c56269c0d4e01
