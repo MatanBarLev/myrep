@@ -3,4 +3,4 @@ simple file
 changes  ** after lunch **
 ## step 4.2
 
-Still on master, make some changes, commit and push
+make conflicting changes, commit and push to origin/foo.
