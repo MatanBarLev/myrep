@@ -2,3 +2,5 @@
 simple file
 changes  ** after lunch **
 ## step 4.2
+
+make conflicting changes, commit and push to origin/foo.
